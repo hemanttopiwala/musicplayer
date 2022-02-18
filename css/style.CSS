@@ -224,7 +224,7 @@ body{
 
 
 #artist1{
-	background-image: url("Images/Image5.png");
+	background-image: url("/Images/Image5.png");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -251,7 +251,7 @@ body{
 
 
 #artist2{
-	background-image: url("Images/Image6.png");
+	background-image: url("/Images/Image6.png");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -277,7 +277,7 @@ body{
 }
 
 #artist3{
-	background-image: url("Images/Image7.png");
+	background-image: url("/Images/Image7.png");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -303,7 +303,7 @@ body{
 }
 
 #artist4{
-	background-image: url("Images/Image8.png");
+	background-image: url("/Images/Image8.png");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -357,7 +357,7 @@ body{
 
 
 #child1{
-	background-image: url("Images/Image10.jpeg");
+	background-image: url("/Images/Image10.jpeg");
 	height: 9rem;
 	width: 9rem;
 	background-size: cover;
@@ -377,7 +377,7 @@ body{
 
 
 #child2{
-	background-image: url("Images/Image11.jpeg");
+	background-image: url("/Images/Image11.jpeg");
 	height: 9rem;
 	width: 9rem;
 	background-size: cover;
@@ -395,7 +395,7 @@ body{
 }
 
 #child3{
-	background-image: url("Images/Image12.jpeg");
+	background-image: url("/Images/Image12.jpeg");
 	height: 9rem;
 	width: 9rem;
 	background-size: cover;
@@ -413,7 +413,7 @@ body{
 }
 
 #child4{
-	background-image: url("Images/Image13.jpeg");
+	background-image: url("/Images/Image13.jpeg");
 	height: 9rem;
 	width: 9rem;
 	background-size: cover;
@@ -431,7 +431,7 @@ body{
 }
 
 #child5{
-	background-image: url("Images/Image14.jpeg");
+	background-image: url("/Images/Image14.jpeg");
 	height: 9rem;
 	width: 9rem;
 	background-size: cover;
@@ -636,7 +636,7 @@ a div {
 #player:target{
 	height: 45px;
 	width: 30%;
-	background-image: url("Music.png");
+	background-image: url("/Images/Music.png");
 	background-size: cover;
 	top: 75vh;
     left: 24vw;

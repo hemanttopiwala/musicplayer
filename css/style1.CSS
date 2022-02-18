@@ -336,7 +336,7 @@ a{
 #player:target{
 	height: 45px;
 	width: 30%;
-	background-image: url("Music.png");
+	background-image: url("/Images/Music.png");
 	background-size: cover;
 	top: 75vh;
     left: 24vw;
